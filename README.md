@@ -28,6 +28,30 @@
 </ul>
 
 <h2>Getting Started</h2>
+<ol>
+     <li>Clone the repository to your local machine:</li>
+      <pre><code>git clone https://github.com/your-username/simplileap-task.git</code></pre>
+    
+      <li> Navigate to the project directory:</li>
+      <pre><code>cd simplileap-task</code></pre>
+    
+        <li> Install the front-end dependencies:</li>
+        <pre><code>cd client</code></pre>
+        <pre><code>npm install</code></pre>
+    
+        <li>Install the back-end dependencies:</li>
+        <pre><code>cd ../server</code></pre>
+        <pre><code>npm install</code></pre>
+    
+        <li>Start the back end:</li>
+        <pre><code>npm start</code></pre>
+    
+        <li>Start the front end:</li>
+        <pre><code>cd ../client</code></pre>
+        <pre><code>npm start</code></pre>
+    
+        <li>Access the application in your web browser at <a href="http://localhost:3000">http://localhost:3000</a>.</li>   
+</ol>
 
 
 <h2>Database Setup</h2>
