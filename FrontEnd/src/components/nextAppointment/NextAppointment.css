@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.next-appointment-all-detail {
+  padding: 30px;
+  border-radius: 10px;
+  width: 220px; 
+  background: var(--primary-blue, #514ef3);
+}
+.next-appontment-word {
+  color: var(--primary-white, #fff);
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  gap: 44px;
+}
+.next-appointment-bedges {
+  border-radius: 10px;
+  background: var(--primary-white, #fff);
+}
+.next-appointment-avatar {
+  width: 44px;
+  height: 44px;
+  flex-shrink: 0;
+}
+.road {
+  display: flex;
+  color: var(--primary-white, #fff);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px;
+}
+.Road {
+  padding-left: 20px;
+}
+.Date {
+  color: var(--grey-grey-50, #d6e1e6);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+}
+.Nov {
+  width: 220px;
+  height: 27px;
+  color: var(--primary-white, #fff);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px; 
+}
+.Room {
+  display: flex;
+  padding-top: 15px;
+}
+.R {
+  color: var(--grey-grey-50, #d6e1e6);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px; 
+}
+.P {
+  color: var(--grey-grey-50, #d6e1e6);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+}
+.People {
+  padding-left: 30px;
+}
+.M {
+  color: var(--primary-white, #fff);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px; 
+}
+.Num {
+  color: var(--primary-white, #fff);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27px; 
+  
+}
+.Price {
+  display: flex;
+  padding-top: 20px;
+}
+.Pri {
+  color: var(--grey-grey-50, #d6e1e6);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+}
+.SeeDetail {
+  display: flex;
+  width: 132px;
+  padding: 10px 14px ;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  border-radius: 70px;
+  border: 1px solid var(--grey-grey-30, #eaeef4);
+  background: var(--primary-white, #fff);
+}
+.See{
+    padding-left: 20px;
+}

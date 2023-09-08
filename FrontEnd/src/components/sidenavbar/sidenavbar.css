@@ -1,0 +1,37 @@
+.side-navbar-logo {
+  position: relative;
+  top: 80px;
+  height: calc(100vh - 80px);
+
+  width: 100px; 
+  background-color: rgba(246, 250, 253, 0.90);;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 20px;
+  overflow-y: scroll;
+  
+}
+
+.active,
+.inactive {
+  display: flex;
+  width: 35px;
+  height: 35px;
+  padding: 15px;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  border: 1px solid var(--grey-grey-30, #eaeef4);
+  text-decoration: none;
+}
+.active {
+  color: white;
+  background-color: #514ef3;
+}
+.inactive {
+  color: black;
+  background-color: white;
+}
+

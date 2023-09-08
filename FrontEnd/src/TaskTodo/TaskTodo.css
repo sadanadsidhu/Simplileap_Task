@@ -1,0 +1,60 @@
+.todo-task-list {
+  background-color: #f6fafd;
+  border-radius: 10px;
+  box-shadow: 10px;
+  padding: 24px;
+}
+.todo-list-bar {
+  display: flex;
+  gap: 161px;
+}
+.date {
+  display: flex;
+}
+.meeting {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.task {
+  color: var(--primary-navy, #092c4c);
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px; 
+}
+.view-al {
+  color: var(--primary-blue, #514ef3);
+  text-align: right;
+  font-family: Inter;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px; 
+}
+.nove {
+  align-self: stretch;
+  color: #fe8084;
+}
+.partner {
+  margin-left: 20px;
+  color: var(--primary-navy, #092c4c);
+  font-family: Inter;
+  font-style: normal;
+}
+.alert {
+  color: #fe8084;
+  margin-left: 10px;
+}
+.input {
+  margin-top: 20px;
+  height: 40px;
+  width: 307px;
+  cursor: pointer;
+  font-size: 16px;
+  border: none;
+}
+.im{
+  background-color: red;
+}

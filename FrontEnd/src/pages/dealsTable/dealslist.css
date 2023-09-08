@@ -1,0 +1,56 @@
+.deals-list-table{
+  margin-top: 100px;
+}
+.deals-table-data {
+  padding: 20px 30px;
+  display: flex;
+  justify-content: space-between;
+
+}
+.sorte-by-date {
+  display: flex;
+  padding: 0px 20px;
+  gap: 20px;
+}
+.total{
+  color: var(--primary-navy, #092C4C);
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px; 
+}
+.filter,.total-deals{
+  color: var(--primary-navy, #092c4c);
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px; 
+  display: inline-flex;
+  padding: 10px 20px 10px 25px;
+  justify-content: center;
+  align-items: center;
+  gap: 13px;
+  border-radius: 30px;
+  border: 1px solid var(--grey-grey-30, #eaeef4);
+  background: var(--primary-white, #fff);
+}
+.search-bar {
+    display: flex;
+    align-items: center;
+    background-color:white;
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: 1px solid var(--grey-grey-30, #eaeef4);
+  }
+  .search-bar input {
+    border: 0px;
+    background-color: transparent;
+    font-family: Inter;
+    font-size: 14px;
+    width: 50px;
+  }
+  .search-bar input:focus{
+    outline: none;
+  }

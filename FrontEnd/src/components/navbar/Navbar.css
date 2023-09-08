@@ -1,0 +1,68 @@
+.navbar-all-detail {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  z-index: 999;
+  width: 100%;
+  background-color:rgba(246, 250, 253);
+}
+.navbar-logo {
+  height: 80px;
+  width: 90px;
+  display: flex;
+  align-items: center;
+  background: var(--primary-navy, #092c4c);
+  background: none;
+  padding: 0px 0px 0px 27px;
+  align-items: center;
+}
+.dashbord {
+  color: var(--primary-navy, #092c4c);
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  padding-left: 50px;
+}
+.navbar-right-element {
+  display: flex;
+  padding: 10px 16px 10px 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.AddButton {
+  border: 0px;
+  display: flex;
+  padding: 10px 16px 10px 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  border-radius: 70px;
+  background: var(--primary-blue, #514ef3);
+  color: white;
+}
+.navbar-search-icon {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  padding: 15px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  border: 1px solid var(--grey-grey-30, #eaeef4);
+  background: var(--primary-white, #fff);
+  cursor: pointer;
+}
+.navbar-right-avatar {
+  width: 50px;
+  height: 50px;
+  flex-shrink: 0;
+  background: lightgray 50% cover no-repeat;
+}
+.navbar-right-side {
+  justify-content: center;
+  display: flex;
+  justify-content: space-between;
+}

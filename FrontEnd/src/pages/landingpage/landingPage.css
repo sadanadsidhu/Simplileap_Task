@@ -1,0 +1,65 @@
+.main_container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+  padding: 0px 10px;
+  overflow-y: scroll;
+  height:calc(100vh - 100px) ;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.top {
+  display: flex;
+  gap: 20px;
+}
+
+
+.bottom {
+  display: flex;
+  gap: 20px;
+}
+.countCard_container{
+display: flex;
+flex-direction: column;
+gap: 20px;
+}
+
+
+
+.right {
+  gap: 500px;
+}
+
+/* -----media queries--------------- */
+
+/* @media screen and (min-width: 1024px) {
+
+  .main_container{
+    flex-direction: column;
+    height: 100vh;
+    overflow-y: scroll;
+
+  }
+
+} */
+/* @media screen and (min-width: 1280px) and (max-width: 1500px) {
+  .main_container{
+    height: 100vh;
+    overflow-y: scroll;
+    flex-direction: column;
+
+  }
+} */
+/* @media screen and (min-width: 1600px){
+  .main_container{
+    height: 100vh;
+    overflow-y: scroll;
+    background-color: brown;
+
+  }
+} */
