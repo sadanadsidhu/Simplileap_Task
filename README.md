@@ -1,3 +1,8 @@
+![image](https://github.com/sadanadsidhu/Simplileap_Task/assets/121937172/8ec8b5b2-7661-4e4e-a70f-0d003a3184a4)
+
+![image](https://github.com/sadanadsidhu/Simplileap_Task/assets/121937172/2caafeb4-8ee2-4daf-91c1-2ce1f0dbda92)
+
+
 <h1>Simplileap Task - Full Stack Project</h1>
 
 <h2>Overview</h2>
