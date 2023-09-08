@@ -28,15 +28,7 @@
 </ul>
 
 <h2>Getting Started</h2>
-<ol>
-    <li>Clone the repository to your local machine:</li>
-    <pre><code>git clone https://github.com/your-username/simplileap-task.git</code></pre>
 
-    <li> Navigate to the project directory:</li>
-    <pre><code>cd simplileap-task</code></pre>
-
-    
-</ol>
 
 <h2>Database Setup</h2>
 <p>
